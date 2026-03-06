@@ -7,7 +7,7 @@ public class Ejercicio2 {
 
     public static void numeroDecimal() {
         System.out.println("Ingrese un numero decimal:");
-        double num = sc.nextDouble();
+        float num = sc.nextFloat();
 
         if (num > 0)
             System.out.println("Es positivo");
