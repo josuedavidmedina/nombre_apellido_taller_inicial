@@ -6,7 +6,7 @@ public class Ejercicio2 {
     static Scanner sc = new Scanner(System.in);
 
     public static void numeroDecimal() {
-        System.out.println("Ingrese un numero decimal:");
+        System.out.println("NUMERO POSITIVO - NEGATIVO \n Ingrese un numero decimal:");
         float num = sc.nextFloat();
 
         if (num > 0)
